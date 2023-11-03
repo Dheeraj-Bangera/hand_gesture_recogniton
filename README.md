@@ -16,10 +16,10 @@ Before you begin, make sure you have the following prerequisites:
 - OpenCV (for webcam support)
 - NumPy
 - TensorFlow (for training custom models)
-- Keras (for building neural networks)
-Contributing
-If you'd like to contribute to this project, please follow these steps:
+- Keras (for building neural networks)<br>
 
+
+If you'd like to contribute to this project, please follow these steps:
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Make your changes and commit them.
